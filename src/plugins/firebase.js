@@ -1,5 +1,6 @@
 import firebase from 'firebase';
 
+// ほげ
 const config = {
     apiKey: "AIzaSyDIWnbJ4Z4EX9dZpkgAH-pAXM0LbSe_jqM",
     authDomain: "sample-masahich.firebaseapp.com",
